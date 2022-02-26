@@ -3,6 +3,7 @@
 ## DOMAIN: 
 Automotive. Surveillance.
 
+
 ## CONTEXT:
 Computer vision can be used to automate supervision and generate action appropriate action trigger if the event is predicted from the image of interest. For example a car moving on the road can be easily identified by a camera as make of the car, type, colour, number plates etc.
 
